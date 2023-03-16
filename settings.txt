@@ -1,0 +1,18 @@
+{"site_url":"http://github.com/Erigardo.github.io",
+"site_title": "Александр Леснов: разработчик и автор контента",
+"description": "Александр Леснов - портфолио, резюме и блог DataScientist",
+"keywords": "Fullstack Python, ML, DL",
+"name": "Александр Леснов",
+"tag1":"DataScientist",
+"tag2":"Developer",
+"sect1":"Главная",
+"sect2":"Резюме",
+"sect3":"Портфолио",
+"sect4":"Блог",
+"sect5":"Контакты",
+"telegram":"https://t.me/Aleksanderll",
+"facebook":"https://facebook.com/aleksander.lesnov",
+"vk":"https://vk.com/aleksander.lesnov",
+"email":"mailto:alexllesnov@gmail.com",
+"city":"Moscow"
+}
